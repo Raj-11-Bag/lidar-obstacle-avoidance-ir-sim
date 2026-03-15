@@ -8,7 +8,8 @@ distance measurements from a 2D LiDAR sensor.
 
 ## Demo
 
-(Video here)
+[![Watch the video](https://img.youtube.com/vi/HA-RiKA5YAU/0.jpg)](https://youtu.be/HA-RiKA5YAU)
+
 
 ## Features
 
