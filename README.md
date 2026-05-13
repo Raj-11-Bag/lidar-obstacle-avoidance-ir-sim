@@ -3,7 +3,7 @@
 This project demonstrates a simple LiDAR-based obstacle avoidance
 algorithm implemented in the IR-SIM robotics simulator.
 
-The robot dynamically adjusts its speed and steering based on
+The robot dynamically adjusts its speed and steering based on the
 distance measurements from a 2D LiDAR sensor.
 
 ## Demo
